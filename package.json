@@ -1,0 +1,1 @@
+{"name":"english-small-steps","private":true,"type":"module","scripts":{"build":"node build.mjs","test":"node --test test.mjs","start":"node serve.mjs"}}
