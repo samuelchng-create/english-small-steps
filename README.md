@@ -35,7 +35,7 @@ node --test test.mjs
 
 `index.html` is a generated static fallback with the complete practice and reporting experience. It can be served by any static web host, but the AI endpoint requires the Worker deployment. `bank.mjs`, `core.mjs`, `app.mjs`, `server.mjs`, `template.html` and `style.css` are the editable source. Run `node build.mjs` after changing them to regenerate `index.html` and `worker.mjs`.
 
-Initial status: source committed to GitHub; live hosting and AI configuration require completion. No real learner data or API credentials are included.
+Live pilot: https://samuelchng-create.github.io/english-small-steps/ (GitHub Pages, static practice and reports). Live AI coaching remains unconfigured. No real learner data or API credentials are included.
 
 ## Enable live AI
 
@@ -58,3 +58,11 @@ K200: Writing 35%, Comprehension 35%, Listening 10%, Oral 20%. The full situatio
 ## Recommended pilot
 
 Try five short sessions weekly. Have the tutor review the weekly report and enter one specific teaching focus. Recheck progress using unfamiliar, unaided examples, including handwriting. Measure reduced support and explanation quality, rather than activity totals alone.
+
+## Exam-style final questions (October 2026 update)
+
+Each of the 28 missions now ends with a related original written task using exam-style commands, response requirements and indicative practice marks. The final task unlocks after the guided activities have been attempted. Hints and reference guidance are unavailable until the first final answer is saved. Sources for most comprehension tasks are new, so they practise applying the skill rather than selecting the same multiple-choice answer again.
+
+Coverage: evidence-supported inference, explanation of wording, poster persuasion, about-80-word summary with a paragraph range and supplied opening, two-line grammar editing, 180–250-word situational writing using a stimulus, and listening note completion. These are original exercises, not official SEAB questions or validated mark schemes. Visual tasks use described/text stimuli; listening uses synthetic speech and permits replay. This is not a full exam simulation. Tutor review is required.
+
+Tutor reports show the final task, source, original answer, support and revisions. Unfinished saved sessions gain the new final item without losing their existing answers. Completed historical sessions remain unchanged and are labelled as predating this addition.
